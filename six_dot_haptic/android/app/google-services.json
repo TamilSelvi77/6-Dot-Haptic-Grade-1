@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384151948984",
+    "project_id": "dot-haptic",
+    "storage_bucket": "dot-haptic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384151948984:android:8ff504bf3cccb9f35b6e4d",
+        "android_client_info": {
+          "package_name": "com.example.six_dot_haptic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6df-oe1a3e2JnE4zXFwsgXlc9O3bM5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
