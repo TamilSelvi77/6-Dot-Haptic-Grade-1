@@ -99,7 +99,6 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
-  // Forcing GitHub to recalculate repository languages
 
 flutter_native_splash:
   color: "#000000"
