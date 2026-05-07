@@ -1,5 +1,4 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
-# Tell GitHub to ignore Flutter's auto-generated folders inside the subfolder
 six_dot_haptic/web/* linguist-vendored
 six_dot_haptic/ios/* linguist-vendored
 six_dot_haptic/android/* linguist-vendored
