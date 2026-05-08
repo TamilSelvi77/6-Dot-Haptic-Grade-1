@@ -5,7 +5,8 @@
 *.css linguist-vendored
 *.cpp linguist-vendored
 *.swift linguist-vendored
-
+*.kt linguist-vendored
+*.java linguist-vendored
 
 **/web/* linguist-vendored
 **/ios/* linguist-vendored
