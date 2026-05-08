@@ -15,3 +15,4 @@
 **/macos/* linguist-vendored
 **/windows/* linguist-vendored
 **/linux/* linguist-vendored
+*.dart linguist-detectable=true
